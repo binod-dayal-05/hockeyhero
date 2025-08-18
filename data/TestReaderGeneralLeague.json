@@ -1,0 +1,517 @@
+{
+    "teams": [
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 39,
+                    "offense": 92,
+                    "defense": 95,
+                    "name": "Connor Caufield",
+                    "wage": 846
+                },
+                {
+                    "number": 41,
+                    "offense": 87,
+                    "defense": 85,
+                    "name": "William Gretzky",
+                    "wage": 309
+                },
+                {
+                    "number": 59,
+                    "offense": 99,
+                    "defense": 82,
+                    "name": "Sidney McDavid",
+                    "wage": 802
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 11},
+                {"id": 10},
+                {"id": 9},
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 3},
+                {"id": 2},
+                {"id": 1}
+            ],
+            "name": "Boston Oilers",
+            "id": 0,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 72,
+                    "offense": 92,
+                    "defense": 84,
+                    "name": "Brock MacKinnon",
+                    "wage": 261
+                },
+                {
+                    "number": 70,
+                    "offense": 90,
+                    "defense": 81,
+                    "name": "Nathan Ovechkin",
+                    "wage": 339
+                },
+                {
+                    "number": 54,
+                    "offense": 95,
+                    "defense": 93,
+                    "name": "Sidney Gretzky",
+                    "wage": 770
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 10},
+                {"id": 9},
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 3},
+                {"id": 2},
+                {"id": 0},
+                {"id": 11}
+            ],
+            "name": "Detroit Oilers",
+            "id": 1,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 52,
+                    "offense": 85,
+                    "defense": 81,
+                    "name": "Quinn Stamkos",
+                    "wage": 467
+                },
+                {
+                    "number": 88,
+                    "offense": 82,
+                    "defense": 83,
+                    "name": "Connor Hughes",
+                    "wage": 353
+                },
+                {
+                    "number": 52,
+                    "offense": 87,
+                    "defense": 84,
+                    "name": "Nick Kucherov",
+                    "wage": 311
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 9},
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 3},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10}
+            ],
+            "name": "Calgary Canadiens",
+            "id": 2,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 60,
+                    "offense": 93,
+                    "defense": 82,
+                    "name": "Mario Nylander",
+                    "wage": 255
+                },
+                {
+                    "number": 19,
+                    "offense": 94,
+                    "defense": 87,
+                    "name": "Connor Crosby",
+                    "wage": 787
+                },
+                {
+                    "number": 2,
+                    "offense": 94,
+                    "defense": 87,
+                    "name": "Quinn MacKinnon",
+                    "wage": 730
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 9}
+            ],
+            "name": "Edmonton Rangers",
+            "id": 3,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 19,
+                    "offense": 81,
+                    "defense": 93,
+                    "name": "Pavel Crosby",
+                    "wage": 318
+                },
+                {
+                    "number": 93,
+                    "offense": 96,
+                    "defense": 88,
+                    "name": "Sidney Nylander",
+                    "wage": 529
+                },
+                {
+                    "number": 60,
+                    "offense": 93,
+                    "defense": 89,
+                    "name": "William Draisaitl",
+                    "wage": 876
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 3},
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 9},
+                {"id": 8}
+            ],
+            "name": "Detroit Jets",
+            "id": 4,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 59,
+                    "offense": 92,
+                    "defense": 97,
+                    "name": "Brock Nylander",
+                    "wage": 952
+                },
+                {
+                    "number": 85,
+                    "offense": 96,
+                    "defense": 88,
+                    "name": "Cole Matthews",
+                    "wage": 539
+                },
+                {
+                    "number": 96,
+                    "offense": 98,
+                    "defense": 82,
+                    "name": "Sidney Kucherov",
+                    "wage": 942
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 6},
+                {"id": 4},
+                {"id": 3},
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 9},
+                {"id": 8},
+                {"id": 7}
+            ],
+            "name": "New York Blackhawks",
+            "id": 5,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 79,
+                    "offense": 81,
+                    "defense": 89,
+                    "name": "Nick Draisaitl",
+                    "wage": 460
+                },
+                {
+                    "number": 4,
+                    "offense": 85,
+                    "defense": 92,
+                    "name": "Auston Lemieux",
+                    "wage": 267
+                },
+                {
+                    "number": 12,
+                    "offense": 86,
+                    "defense": 89,
+                    "name": "Mario Hughes",
+                    "wage": 462
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 5},
+                {"id": 4},
+                {"id": 3},
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 9},
+                {"id": 8},
+                {"id": 7}
+            ],
+            "name": "Chicago Jets",
+            "id": 6,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 16,
+                    "offense": 81,
+                    "defense": 89,
+                    "name": "Quinn Caufield",
+                    "wage": 341
+                },
+                {
+                    "number": 92,
+                    "offense": 98,
+                    "defense": 99,
+                    "name": "Cole Caufield",
+                    "wage": 766
+                },
+                {
+                    "number": 86,
+                    "offense": 82,
+                    "defense": 96,
+                    "name": "Alexander MacKinnon",
+                    "wage": 316
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 4},
+                {"id": 3},
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 9},
+                {"id": 8},
+                {"id": 6},
+                {"id": 5}
+            ],
+            "name": "New York Bruins",
+            "id": 7,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 37,
+                    "offense": 93,
+                    "defense": 92,
+                    "name": "Wayne MacKinnon",
+                    "wage": 742
+                },
+                {
+                    "number": 20,
+                    "offense": 93,
+                    "defense": 81,
+                    "name": "Bobby Stamkos",
+                    "wage": 447
+                },
+                {
+                    "number": 92,
+                    "offense": 91,
+                    "defense": 85,
+                    "name": "Nathan Stamkos",
+                    "wage": 367
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 3},
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 9},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4}
+            ],
+            "name": "Montreal Oilers",
+            "id": 8,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 39,
+                    "offense": 89,
+                    "defense": 93,
+                    "name": "Bobby Crosby",
+                    "wage": 720
+                },
+                {
+                    "number": 27,
+                    "offense": 99,
+                    "defense": 91,
+                    "name": "Nikita Kucherov",
+                    "wage": 888
+                },
+                {
+                    "number": 22,
+                    "offense": 83,
+                    "defense": 93,
+                    "name": "Mario Hughes",
+                    "wage": 452
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 2},
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 10},
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 3}
+            ],
+            "name": "Toronto Oilers",
+            "id": 9,
+            "losses": 0
+        },
+        {
+            "wins": 0,
+            "roster": [
+                {
+                    "number": 35,
+                    "offense": 86,
+                    "defense": 99,
+                    "name": "Alexander Boeser",
+                    "wage": 543
+                },
+                {
+                    "number": 48,
+                    "offense": 86,
+                    "defense": 96,
+                    "name": "Alexander Draisaitl",
+                    "wage": 583
+                },
+                {
+                    "number": 13,
+                    "offense": 93,
+                    "defense": 94,
+                    "name": "Brock Caufield",
+                    "wage": 717
+                }
+            ],
+            "ties": 0,
+            "gamesPlayed": 0,
+            "opponents": [
+                {"id": 1},
+                {"id": 0},
+                {"id": 11},
+                {"id": 9},
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 3},
+                {"id": 2}
+            ],
+            "name": "Detroit Red Wings",
+            "id": 10,
+            "losses": 0
+        },
+        {
+            "wins": 3,
+            "roster": [{
+                "number": 40,
+                "offense": 95,
+                "defense": 93,
+                "name": "Elias Petterson",
+                "wage": 1000
+            }],
+            "ties": 2,
+            "gamesPlayed": 6,
+            "opponents": [
+                {"id": 0},
+                {"id": 10},
+                {"id": 9},
+                {"id": 8},
+                {"id": 7},
+                {"id": 6},
+                {"id": 5},
+                {"id": 4},
+                {"id": 3},
+                {"id": 2},
+                {"id": 1}
+            ],
+            "name": "Canucks",
+            "id": 11,
+            "losses": 1
+        }
+    ],
+    "matchday": 1
+}
